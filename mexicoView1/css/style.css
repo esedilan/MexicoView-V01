@@ -206,7 +206,7 @@ h6 {
 #intro .intro-info h2 {
   color: #413e66;
   margin-bottom: 40px;
-  font-size: 35px;
+  font-size: 32px;
   font-weight: 700;
 }
 
@@ -453,7 +453,7 @@ h6 {
 --------------------------------*/
 
 .section-header h3 {
-  font-size: 36px;
+  font-size: 32px;
   color: #413e66;
   text-align: center;
   font-weight: 700;
@@ -464,7 +464,7 @@ h6 {
 .section-header p {
   text-align: center;
   margin: auto;
-  font-size: 15px;
+  font-size: 16px;
   padding-bottom: 60px;
   color: #535074;
   width: 50%;
@@ -481,12 +481,12 @@ h6 {
 --------------------------------*/
 
 #about {
-  padding: 80px 0;
+  padding: 36px 0;
 }
 
 #about .about-content {
 
-  padding-top: 40px;
+  padding-top: 20px;
 }
 
 #about .about-content h2 {
@@ -498,7 +498,7 @@ h6 {
 #about .about-content h3 {
   color: #696592;
   font-weight: 400;
-  font-size: 22px;
+  font-size: 20px;
   font-style: italic;
 }
 
@@ -562,7 +562,7 @@ h6 {
 --------------------------------*/
 
 #services {
-  padding: 60px 0 40px 0;
+  padding: 50px 0 40px 0;
 }
 
 #services .box {
@@ -600,7 +600,7 @@ h6 {
 #services .title {
   font-weight: 700;
   margin-bottom: 15px;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 #services .title a {
@@ -870,7 +870,7 @@ h6 {
 }
 
 #testimonials .section-header {
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 #testimonials .testimonial-item .testimonial-img {
@@ -1203,7 +1203,7 @@ h6 {
 
 #footer {
   padding: 0 0 30px 0;
-  font-size: 14px;
+  font-size: 15px;
   background: #fff;
 }
 
@@ -1569,7 +1569,7 @@ h6 {
 
 body,
 html {
-  font-size: 18px;
+  font-size: 16px;
   color: #35353F;
   line-height: 1.44444;
   font-family: "Inter", -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
