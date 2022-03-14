@@ -69,7 +69,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #fff;
+  background: fff;
 }
 
 #preloader:before {
@@ -117,7 +117,7 @@ h6 {
 }
 
 #topbar .social-links {
-  text-align: right;
+  text-align: center;
 }
 
 #topbar .social-links a {
@@ -185,11 +185,11 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 3px 0;
-  max-height: 26px;
+  max-height: 23px;
 }
 
 .main-pages {
-  margin-top: 60px;
+  margin-top: 30px;
 }
 
 /*--------------------------------------------------------------
@@ -8929,6 +8929,7 @@ a.close.disabled {
   margin-left: 15%;
   list-style: none;
 }
+
 
 .carousel-indicators li {
   -webkit-box-sizing: content-box;
